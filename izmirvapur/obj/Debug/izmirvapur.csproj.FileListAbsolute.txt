@@ -1,0 +1,11 @@
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\izmirvapur.exe.config
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\izmirvapur.exe
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\izmirvapur.pdb
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\HtmlAgilityPack.dll
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\LiteDB.dll
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\HtmlAgilityPack.pdb
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\HtmlAgilityPack.xml
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\bin\Debug\LiteDB.xml
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\obj\Debug\izmirvapur.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\obj\Debug\izmirvapur.exe
+c:\users\onur\documents\visual studio 2017\Projects\izmirvapur\izmirvapur\obj\Debug\izmirvapur.pdb
