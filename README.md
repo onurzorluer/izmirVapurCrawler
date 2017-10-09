@@ -1,2 +1,2 @@
 # izmirVapurCrawler
-İzmir Vapur Saatleri Web Crawler
+HTMLAgilityPack ve LiteDB kullanılarak hazırlanmış İzmir Vapur Saatleri Web Crawler
